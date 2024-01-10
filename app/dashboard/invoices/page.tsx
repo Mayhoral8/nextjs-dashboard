@@ -1,5 +1,5 @@
 export default function Invoices (){
-    return(<>
+    return(<div>
     <p>Inovice Page</p>
-    </>)
+    </div>)
 }
